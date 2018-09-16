@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/actuatorJpaLib"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Desktop/actuatornew2/evo-inflector-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/spring-data-rest-hal-browser-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/spring-data-rest-webmvc-3.0.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/spring-data-rest-core-3.0.10.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
